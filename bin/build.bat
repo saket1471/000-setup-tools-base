@@ -1,2 +1,2 @@
 
-python setup.py sdist --format=zip bdist_egg
+python setup.py clean sdist --format=zip bdist_egg
